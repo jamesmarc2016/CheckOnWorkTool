@@ -1,0 +1,15 @@
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\CheckOnWorkTool.exe.config
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\CheckOnWorkTool.exe
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\CheckOnWorkTool.pdb
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\obj\Debug\CheckOnWorkTool.Properties.Resources.resources
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\obj\Debug\CheckOnWorkTool.csproj.GenerateResource.Cache
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\obj\Debug\CheckOnWorkTool.exe
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\obj\Debug\CheckOnWorkTool.pdb
+c:\users\xinhu\documents\visual studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\obj\Debug\CheckOnWorkTool.main.resources
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\obj\Debug\CheckOnWorkTool.csprojResolveAssemblyReference.cache
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\NPOI.dll
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\NPOI.OOXML.dll
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\xinhu\Documents\Visual Studio 2015\Projects\CheckOnWorkTool\CheckOnWorkTool\bin\Debug\NPOI.xml
